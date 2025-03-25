@@ -1,0 +1,11 @@
+E:\Field\Done\cs projects\XO-Game\XO-Game\bin\Debug\XO-Game.exe.config
+E:\Field\Done\cs projects\XO-Game\XO-Game\bin\Debug\XO-Game.exe
+E:\Field\Done\cs projects\XO-Game\XO-Game\bin\Debug\XO-Game.pdb
+E:\Field\Done\cs projects\XO-Game\XO-Game\obj\Debug\XO-Game.csprojResolveAssemblyReference.cache
+E:\Field\Done\cs projects\XO-Game\XO-Game\obj\Debug\XO_Game.Form1.resources
+E:\Field\Done\cs projects\XO-Game\XO-Game\obj\Debug\XO_Game.Properties.Resources.resources
+E:\Field\Done\cs projects\XO-Game\XO-Game\obj\Debug\XO-Game.csproj.GenerateResource.Cache
+E:\Field\Done\cs projects\XO-Game\XO-Game\obj\Debug\XO-Game.exe
+E:\Field\Done\cs projects\XO-Game\XO-Game\obj\Debug\XO-Game.pdb
+E:\Field\Done\cs projects\XO-Game\XO-Game\obj\Debug\XO_Game.twoPlayer.resources
+E:\Field\Done\cs projects\XO-Game\XO-Game\obj\Debug\XO_Game.One_player.resources
